@@ -1,0 +1,15 @@
+.bg-light {
+    background-color: #f8f9fa;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.capitalize {
+    text-transform: capitalize;
+}
+.text-center {
+    text-align: center;
+}
+.color-title {
+    color: #282828;
+}
