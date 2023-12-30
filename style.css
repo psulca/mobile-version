@@ -157,6 +157,7 @@ label #close {
 }
 .portfolio {
     box-sizing: border-box;
+    width: auto;
     padding: 20px 15px;
 }
 .portfolio__heading {
